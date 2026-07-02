@@ -1,4 +1,4 @@
-# TechNova HR Workforce Attrition Intelligence Platform   
+# TechNova HR Workforce Attrition Intelligence Platform    
 
 ## Overview
 A mid-size IT company (fictional: TechNova Solutions) with 4,000+ employees 
