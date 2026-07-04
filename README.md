@@ -141,16 +141,19 @@ half of all employees who would actually leave.
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/3a0f04ca-5059-4eb7-878e-c781981752fd" />
+
+
 
 ### Page 2 — Risk Intelligence
-![Risk Intelligence](screenshots/page2_risk_intelligence.png)
+<img width="1285" height="721" alt="image" src="https://github.com/user-attachments/assets/2de41819-f23b-4efb-98cc-cb6a5d53ca76" />
 
 ### Page 3 — People Analytics Deep Dive
-![People Analytics](screenshots/page3_people_analytics.png)
+<img width="1280" height="724" alt="image" src="https://github.com/user-attachments/assets/8d627364-f8cd-4210-945d-fa6710a8c9c0" />
+
 
 ### Page 4 — AI Risk Card
-![AI Risk Card](screenshots/page4_ai_risk_card.png)
+<img width="1284" height="715" alt="image" src="https://github.com/user-attachments/assets/f3b61ff1-b443-41b0-97d7-f2f2b5f2dd94" />
 
 ---
 
