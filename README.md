@@ -157,12 +157,11 @@ half of all employees who would actually leave.
 
 ---
 
-## Video Demonstration
+## 🎥 Video Demonstration
 
-🎥 **Dashboard walkthrough video — Coming Soon**
+📹 **[Video Demo](https://drive.google.com/file/d/1mIUMwNfu-2tiW-ExquOgijebc83WLZmX/view?usp=drivesdk)**
 
-*Full demonstration of drill-through navigation, AI risk card generation, 
-employee search, and slicer interactions across all 4 pages.*
+*A complete walkthrough of the dashboard, including drill-through navigation, AI risk card generation, employee search, interactive slicers, and all four report pages.*
 
 ---
 
